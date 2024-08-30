@@ -18,8 +18,9 @@ To run the MyToken smart contract, start by accessing the Remix IDE. Open your w
 
 Next, copy and paste the Solidity code provided into the newly created file. This code defines the MyToken contract with functions for minting and burning tokens, along with tracking token balances.
 
-```solidity
+ solidity
 Code
+```
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
@@ -40,6 +41,8 @@ contract MyToken {
         balances[_from] -= _value;
     }
 }
+```
+
 Once you have pasted the code, proceed to compile it. Click on the "Solidity Compiler" tab in the left-hand sidebar. Ensure the compiler version is set to 0.8.18 (or another compatible version), and then click on the "Compile MyToken.sol" button to compile the code.
 
 After successfully compiling the contract, it's time to deploy it. Click on the "Deploy & Run Transactions" tab in the left-hand sidebar. From the dropdown menu, select the MyToken contract, and then click the "Deploy" button to deploy the contract to the blockchain.
