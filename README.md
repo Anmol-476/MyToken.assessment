@@ -56,9 +56,9 @@ Compiler Errors: Verify that your Solidity version matches the one specified in 
 Insufficient Balance Error: Ensure that the address you are trying to burn tokens from has a sufficient balance to perform the burn operation.
 In Remix, while there is no specific help command, you can refer to the "Solidity Compiler" and "Deploy & Run Transactions" tabs for guidance on errors and usage. These sections provide helpful information on resolving common issues that may arise during contract execution.
 
-**Authors**:
+# Authors
 Anmol
 Contact:thakuranmol993@gmail.com
-**License**:
+#License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
