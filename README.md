@@ -18,7 +18,7 @@ To run the MyToken smart contract, start by accessing the Remix IDE. Open your w
 
 Next, copy and paste the Solidity code provided into the newly created file. This code defines the MyToken contract with functions for minting and burning tokens, along with tracking token balances.
 
-solidity
+```solidity
 Code
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
