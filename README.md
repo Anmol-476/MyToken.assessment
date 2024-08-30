@@ -2,7 +2,7 @@ MyToken
 Simple overview of use/purpose
 This project is a Solidity smart contract designed for creating and managing a basic token on the Ethereum blockchain. It allows users to mint new tokens, burn existing ones, and track balances. The contract serves as a straightforward introduction to token management in blockchain development.
 
-Description
+Description:
 The MyToken smart contract provides fundamental functionalities for token creation and management. It includes features that allow users to mint tokens, thereby increasing the total supply, and burn tokens, which reduces the total supply. Additionally, it tracks the total supply and individual balances of all token holders. Written in Solidity, this contract is ideal for educational purposes and for developers who want to understand the basics of token operations on Ethereum.
 
 Key Features:
@@ -61,7 +61,7 @@ In Remix, while there is no specific help command, you can refer to the "Solidit
 
 Authors
 Anmol
-Contact:thakuranmol@
+Contact:thakuranmol993@gmail.com
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
