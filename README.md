@@ -57,8 +57,8 @@ Insufficient Balance Error: Ensure that the address you are trying to burn token
 In Remix, while there is no specific help command, you can refer to the "Solidity Compiler" and "Deploy & Run Transactions" tabs for guidance on errors and usage. These sections provide helpful information on resolving common issues that may arise during contract execution.
 
 ### Authors
-Anmol
+Anmol  
 Contact:thakuranmol993@gmail.com
-#### License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
